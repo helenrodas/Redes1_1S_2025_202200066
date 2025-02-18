@@ -83,4 +83,4 @@
 
 ### Paquete ICMP
 ![Imagen](Imagenes/img11.png)
-Practica1/Imagenes/img1.png
+
