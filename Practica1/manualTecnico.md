@@ -50,37 +50,37 @@
 ![Imagen](Imagenes/img1.png)
 
 + VPC Arquitectura y Urbanismo
-![Imagen](/Imagenes/img2.png)
+![Imagen](Imagenes/img2.png)
 
 + VPC Alta Direccion
-![Imagen](/Imagenes/img3.png)
+![Imagen](Imagenes/img3.png)
 
 + VPC Recepcion y Administracion
-![Imagen](/Imagenes/img4.png)
+![Imagen](Imagenes/img4.png)
 
 + VPC Renderizado y Modelacion
-![Imagen](/Imagenes/img5.png)
+![Imagen](Imagenes/img5.png)
 
 ### Ping entre hosts
 * ping entre Diseño Gráfico y Publicidad a Recepcion y Administracion
-![Imagen](/Imagenes/img6.png)
+![Imagen](Imagenes/img6.png)
 
 * ping entre Arquitectura y Urbanismo a Alta Dirección
-![Imagen](/Imagenes/img7.png)
+![Imagen](Imagenes/img7.png)
 
 * ping entre Alta Dirección a Diseño Gráfico y Publicidad
-![Imagen](/Imagenes/img8.png)
+![Imagen](Imagenes/img8.png)
 
 * ping entre Recepcion y Administracion a Diseño Gráfico y Publicidad
-![Imagen](/Imagenes/img9.png)
+![Imagen](Imagenes/img9.png)
 
 * ping entre Renderizado y Modelado a Arquitectura y urbanismo
-![Imagen](/Imagenes/img10.png)
+![Imagen](Imagenes/img10.png)
 
 ### Paquete ARP
-![Imagen](/Imagenes/img12.png)
+![Imagen](Imagenes/img12.png)
 
 
 ### Paquete ICMP
-![Imagen](/Imagenes/img11.png)
+![Imagen](Imagenes/img11.png)
 Practica1/Imagenes/img1.png
