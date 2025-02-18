@@ -62,13 +62,13 @@
 ![Imagen](Imagenes/img5.png)
 
 ### Ping entre hosts
-* ping entre Diseño Gráfico y Publicidad a Recepcion y Administracion
+* ping entre Diseño Gráfico y Publicidad a Alta direccion
 ![Imagen](Imagenes/img6.png)
 
-* ping entre Arquitectura y Urbanismo a Alta Dirección
+* ping entre Arquitectura y Urbanismo a Recepcion y Administracion
 ![Imagen](Imagenes/img7.png)
 
-* ping entre Alta Dirección a Diseño Gráfico y Publicidad
+* ping entre Alta Dirección a Arquitectura y Urbanismo
 ![Imagen](Imagenes/img8.png)
 
 * ping entre Recepcion y Administracion a Diseño Gráfico y Publicidad
