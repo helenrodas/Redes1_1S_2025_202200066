@@ -47,7 +47,7 @@
 
 ### VPCs
 + VPC Diseño Gráfico y Publicidad
-![Imagen](Practica1/Imagenes/img1.png)
+![Imagen](Imagenes/img1.png)
 
 + VPC Arquitectura y Urbanismo
 ![Imagen](/Imagenes/img2.png)
